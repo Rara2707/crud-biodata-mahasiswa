@@ -115,7 +115,7 @@ mvc-biodata/
 ## ⚙️ Instalasi & Cara Menjalankan
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/Rara2707/crud-biodata-mahasiswa.git
 
 ## 📚 Database
 
